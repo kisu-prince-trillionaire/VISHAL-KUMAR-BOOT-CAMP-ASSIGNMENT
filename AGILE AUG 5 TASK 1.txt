@@ -3,6 +3,7 @@
 --- INVESTMENT TEAM ROLES---
 THE DIVISION OF RESPONSIBILITIES IN INVESTEMENT MARKET CAN BE DIVIDED INTO DIFFERENT CATEGORIES WHICH CAN BE TERMED AS INVESTEMENT PORTFOLLIO MANAGEMENT TEAM
 STOCK PORTFOLLIO MANAGEMENT
+
 •	PORTFOLLIO MANAGER
 DETERMINES WHAT PORTFOLLIO NEEDS AND SETS RESEARCH AND SETS RESEARCH PRIORITIES
 
@@ -38,6 +39,11 @@ SPRINT 3:
 We have completed our research part, we have analysed the stock according to the market performance. We have measured all the highs and lows and now we are going to do a bit of more research on the stocks and the performance of it. The team members will do further review of the scenarios and get it ready for the plans to get it executed. 
 
 SPRINT MEMBERS AND ROLES
+
+* PRODUCT OWNER : Raghuram
+* SCRUM MASTER : Krishna
+
+-SPRINTERS-
 1.	RAHUL 
 Manage the initial procedures and analysis part of the market. He needs to have a close look at the market and strategies
 2.	SHYAM
@@ -58,6 +64,9 @@ He has to be a part of all the calls. He needs to talk to the client and take al
 1.	Invest
 2.	Place the company on a watch list with a price limit or a time limit
 3.	Return the company to the Idea Backlog for consideration at a later date
+4. Statistical Analysis reports
+5. Readings of the graphs on daily basis
+6. Followup reports of the Investment
 
 ---SPRINT BACKLOG---
 1.	Investment process Tools
