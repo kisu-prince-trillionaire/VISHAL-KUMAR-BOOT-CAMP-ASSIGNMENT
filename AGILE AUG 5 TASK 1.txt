@@ -1,0 +1,68 @@
+      AGILE METHODOLOGY USED IN STOCK MARKET 
+
+--- INVESTMENT TEAM ROLES---
+THE DIVISION OF RESPONSIBILITIES IN INVESTEMENT MARKET CAN BE DIVIDED INTO DIFFERENT CATEGORIES WHICH CAN BE TERMED AS INVESTEMENT PORTFOLLIO MANAGEMENT TEAM
+STOCK PORTFOLLIO MANAGEMENT
+•	PORTFOLLIO MANAGER
+DETERMINES WHAT PORTFOLLIO NEEDS AND SETS RESEARCH AND SETS RESEARCH PRIORITIES
+
+•	RESEARCH DIRECTOR
+OVERSEASS SPRINTS AND REMOVES OBSTACLES
+
+•	RESEARCH TEAM
+COLLABORATES AND BUILDS RESEARCH KNOWLEDGE BASE
+
+
+---INVESTEMENT PROCESS DESION---
+THERE ARE SEVERAL STEPS INVOLVED IN THE PHASE OF DEVELOPMENT. ACCORDINGLY, THE DATA IS TAKEN AND SPRINTS ARE FURNISHED AFTER. THE STEPS INVOLVED IN THE PHASE OF DEVELOPMENT ARE:
+•	PLAN
+•	DESIGN
+•	DEVELOP
+•	TEST 
+•	RELEASE 
+•	REVIEW
+
+--PLAN—
+We need to see the weekly performance of the market and set a team for analysis and research part. At first we drive the data from the on going market situation and do the analysis for the week and share the data with the team
+
+--SPRINT—
+SPRINT DURATION 3 WEEK
+
+SPRINT 1:
+In the first go we will check the front phase of the market. We will have a close look at the graphs and functionalities. First we will go with 10 stocks and we will do a proper measurement of the shareholding patterns and highs and lows of the stock . We will try to follow the stock performance closely and chart out the things that are repeating again and again. After preparing all the charts we will try to figure out the trends and mark down the trends involved in it.
+
+SPRINT 2:
+All the data and charts are ready in the dashboard, now we need to mark down the performance after trying and testing it. With all the inputs collected we will go for a dry run and test the performance after feeding the data accordingly. We will try to test the trends and set the rules to buy the stocks
+
+SPRINT 3:
+We have completed our research part, we have analysed the stock according to the market performance. We have measured all the highs and lows and now we are going to do a bit of more research on the stocks and the performance of it. The team members will do further review of the scenarios and get it ready for the plans to get it executed. 
+
+SPRINT MEMBERS AND ROLES
+1.	RAHUL 
+Manage the initial procedures and analysis part of the market. He needs to have a close look at the market and strategies
+2.	SHYAM
+He will work on the dashboards and get the data from the team members and see the plans and strategies to to build the data available for all when needed.
+3.	RAM
+He has to do the statistical analysis of the reports generated and provide the reports to analysis and research team. He has to use different function criterias to develop a trend in the market
+4.	VISHAL
+He needs to see all the reports and review it thoroughly on all different parameters to make it ready for the testing and deployment. He needs to case studies of all the trends and let it be operated on highs and lows of the market
+5.	AKSHAY
+He has to test the parameters and data he is got and see wether the trends and all other scenarios are working well. He has to do all the testing part and complete the task.
+
+6.	PREM 
+He has to be a part of all the calls. He needs to talk to the client and take all the reviews and requirements from his side and let the team know about all the points which has to be considered for the production.
+
+
+---PRODUCT BACKLOG---
+
+1.	Invest
+2.	Place the company on a watch list with a price limit or a time limit
+3.	Return the company to the Idea Backlog for consideration at a later date
+
+---SPRINT BACKLOG---
+1.	Investment process Tools
+2.	Dashboards
+3.	Stand-ups meeting
+4.	Reports
+5.	Analysis form
+6.	Testing scenarios
